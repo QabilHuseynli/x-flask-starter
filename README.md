@@ -70,7 +70,4 @@
 
 ---
 
-
----
-
-İstəyirsən mən indi kartlara çevrilmiş interfeysi sənin üçün hazırlayım?
+  
